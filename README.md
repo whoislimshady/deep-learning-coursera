@@ -32,7 +32,7 @@ This repo contains my work for this specialization. The code base, quiz question
 
 ### Course 3: Structuring Machine Learning Projects
 
-  - There are no PAs for this course. But this course comes with very interesting case study quizzes (below).
+  - There are no PAs for this course.
   
 ### Course 4: Convolutional Neural Networks
 
